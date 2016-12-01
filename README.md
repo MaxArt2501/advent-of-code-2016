@@ -1,4 +1,4 @@
-# Advent of Code 2015
+# Advent of Code 2016
 
 I'm participating to the 2016 edition of [Advent of Code](http://adventofcode.com/2016/), a nice little puzzle game for developers. It consists in solving a couple of Christmas-related programming puzzles, and it doesn't matter what language you're choosing as long as you get the solution. I warmly suggest to give it a try yourself! 
 
